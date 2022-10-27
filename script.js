@@ -19,3 +19,5 @@ function createBoxes(){
 }
 
 createBoxes()
+
+// Note: I might add some more gifs or other cool animations
